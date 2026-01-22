@@ -29,7 +29,6 @@ This dashboard is designed for school administrators, teachers, guidance counsel
 4.	Offer enrichment for high performers and monitor equity across groups.
    
 ## Screenshot
-
-
+https://github.com/FaleelaShaduly/Data--Analysis-Dashboard/blob/main/Snapshot%20of%20student%20performance%20dashboard.png
 
 
