@@ -11,7 +11,7 @@ This dashboard is designed for school administrators, teachers, guidance counsel
 - Top Performers: Identification of the top 5 students by average score in Maths, Reading, and Writing.
   
 ## Tech Stack
-- Data: student_performance_100.xlsx (CSV/Excel)
+- Data: student_performance_100.xlsx
 - Visualization: Power BI
 - Calculations: DAX measures for aggregated metrics
   
